@@ -99,7 +99,8 @@
     1.  查看电脑cuda版本，查看tookit对应[CUDA Toolkit 13.2 - Release Notes — Release Notes 13.2 documentation](https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html)
         我这里是
         ![image-20260316225009621](img/image-20260316225009621.png)对应
+<img width="1591" height="480" alt="image" src="https://github.com/user-attachments/assets/3b30f72c-8f5b-4beb-a035-a304319759e3" />
 
-        ![image-20260316225111382](img/image-20260316225111382.png)安装[CUDA Toolkit 13.1 Update 1 Downloads | NVIDIA Developer](https://developer.nvidia.com/cuda-13-1-1-download-archive)
+        安装[CUDA Toolkit 13.1 Update 1 Downloads | NVIDIA Developer](https://developer.nvidia.com/cuda-13-1-1-download-archive)
         安装torch
 
